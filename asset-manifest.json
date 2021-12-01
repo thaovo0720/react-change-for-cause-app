@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-change-for-cause-app/static/css/main.0ad9a689.chunk.css",
+    "main.js": "/react-change-for-cause-app/static/js/main.910409dc.chunk.js",
+    "main.js.map": "/react-change-for-cause-app/static/js/main.910409dc.chunk.js.map",
+    "runtime-main.js": "/react-change-for-cause-app/static/js/runtime-main.1338f665.js",
+    "runtime-main.js.map": "/react-change-for-cause-app/static/js/runtime-main.1338f665.js.map",
+    "static/js/2.6f71ab02.chunk.js": "/react-change-for-cause-app/static/js/2.6f71ab02.chunk.js",
+    "static/js/2.6f71ab02.chunk.js.map": "/react-change-for-cause-app/static/js/2.6f71ab02.chunk.js.map",
+    "index.html": "/react-change-for-cause-app/index.html",
+    "static/css/main.0ad9a689.chunk.css.map": "/react-change-for-cause-app/static/css/main.0ad9a689.chunk.css.map",
+    "static/js/2.6f71ab02.chunk.js.LICENSE.txt": "/react-change-for-cause-app/static/js/2.6f71ab02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1338f665.js",
+    "static/js/2.6f71ab02.chunk.js",
+    "static/css/main.0ad9a689.chunk.css",
+    "static/js/main.910409dc.chunk.js"
+  ]
+}
